@@ -1,5 +1,6 @@
-# gosuslugi https://www.gosuslugi.ru
-auto login + 2fa (sms)
+# gosuslugi 
+
+auto login + 2fa (sms) https://www.gosuslugi.ru
 
 Install selenium and https://github.com/mozilla/geckodriver/releases/tag/v0.36.0
 Correct path in a code
