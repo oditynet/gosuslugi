@@ -1,4 +1,4 @@
-# gosuslugi
+# gosuslugi https://www.gosuslugi.ru
 auto login + 2fa (sms)
 
 Install selenium and https://github.com/mozilla/geckodriver/releases/tag/v0.36.0
