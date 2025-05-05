@@ -12,5 +12,5 @@ Correct path in a code
 ```
 python gosuslugi.py
 ```
-4) Ona telehone allow connect to computer
+4) On your phone, allow connection to the computer
 5) Waiting autologin
