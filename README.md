@@ -7,7 +7,7 @@ Correct path in a code
 
 
 1) Connect android telephone to computer
-2) Enter in a code your login+password
+2) Enter in the python code your login+password
 3) 
 ```
 python gosuslugi.py
